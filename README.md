@@ -156,13 +156,16 @@ The dashboard displays a SHAP summary plot that highlights the most influential 
 ## 📸 Screenshots
 
 ### Dashboard
-_Add dashboard screenshot here_
+<img width="1902" height="565" alt="Screenshot 2026-06-05 010539" src="https://github.com/user-attachments/assets/22fe4fb0-740e-4f80-a4e0-556fb8be991f" />
+
 
 ### Prediction Results
-_Add prediction result screenshot here_
+<img width="1595" height="883" alt="Screenshot 2026-06-05 010815" src="https://github.com/user-attachments/assets/651d0f0c-6932-4ba4-9066-54926918dc12" />
+
 
 ### SHAP Explainability
-_Add SHAP visualization screenshot here_
+<img width="565" height="712" alt="Screenshot 2026-06-05 010657" src="https://github.com/user-attachments/assets/0fce3852-10b4-4746-8a9d-1cc852fe542e" />
+
 
 ---
 
